@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharishere&label=Profile%20views&color=0e75b6&style=flat" alt="tusharishere" /> </p>
 
-- 🔭 I’m currently working on **Restaurent Rating Prediction**
+- 🔭 I’m currently working on **Student Performance Indicator**
 
 - 🌱 I’m currently learning **Deep Learning**
 
