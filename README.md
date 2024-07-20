@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tushar Sinha</h1>
-<h3 align="center">A passionate data science enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharishere&label=Profile%20views&color=0e75b6&style=flat" alt="tusharishere" /> </p>
 
-- 🔭 I’m currently working on **Student Performance Indicator**
+- 🔭 I’m currently working on **Login form**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Advance Java**
 
 - 📫 How to reach me **tusharsinha1452@gmail.com**
 
