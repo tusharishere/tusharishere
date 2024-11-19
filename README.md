@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharishere&label=Profile%20views&color=0e75b6&style=flat" alt="tusharishere" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Microservices**
 
 - 📫 How to reach me **tusharsinha1452@gmail.com**
 
